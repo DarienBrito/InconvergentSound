@@ -5,13 +5,13 @@
 ///////////////////////////////////
 
 /*
-Idea: Expanding on a proof of concept inspired by an excellent article by  Anders Hoff:
+Idea: Expanding on a proof of concept inspired by an article by Anders Hoff:
 "http://inconvergent.net/shepherding-random-numbers/"
 
 - We are creating a generative additive synth based on co-dependencies of randomness
 
 For this you will need my class: "MyNode.sc"
-"https://github.com/DarienBrito/Synth-a-day/blob/master/Resources/MyNode.sc"
+"https://github.com/DarienBrito/InconvergentSound/tree/master/Resources"
 */
 
 // ----------------------------------------------------
